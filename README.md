@@ -1,5 +1,5 @@
 # aelnar
-Mostly an archive for school assignments.
+Mostly an archive for select school assignments.
 
 2018-2019 ASSIGNMENTS
 - nqueens.java: nqueens solution

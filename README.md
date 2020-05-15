@@ -1,7 +1,5 @@
 # aelnar
-An archive of old school assignments.
-MOST ARE NOT FULL SOLUTIONS
+Archive of old school assignments. MOSTLY DRAFTS
 
 2018-2019 ASSIGNMENTS
-- charType.c: extracts certain characters
 - dictionary.c: first draft of dictionary program

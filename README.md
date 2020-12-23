@@ -1,5 +1,5 @@
-# aelnar
-Archive of old school assignments. MOSTLY DRAFTS
+# List of Programs
 
-2018-2019 ASSIGNMENTS
-- dictionary.c: first draft of dictionary program
+dictionary.c: Old school assignment in C.
+
+conversions.py: Simple Python program that converts multiple ingredients from grams to cups, tbsp, and tsp. Takes in user input.
